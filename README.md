@@ -1,6 +1,8 @@
 # DynamiKun
 
-TODO: Write a gem description
+original code:
+
+http://qiita.com/kamipo/items/101aaf8159cf1470d823
 
 ## Installation
 
